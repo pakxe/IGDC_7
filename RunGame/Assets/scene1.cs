@@ -10,11 +10,11 @@ public class scene1 : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        sceneIndex = SceneManager.GetActiveScene().buildIndex;
+        sceneIndex = SceneManager.GetActiveScene().buildIndex; // 보이는 씬을 지정
     }
 
     public void NextScene()
     {
-        SceneManager.LoadScene(sceneIndex + 1);
+        SceneManager.LoadScene(sceneIndex + 1); // 다음 씬으로 넘어가기
     } 
 }
