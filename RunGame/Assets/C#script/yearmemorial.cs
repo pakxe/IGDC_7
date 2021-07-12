@@ -15,6 +15,6 @@ public class yearmemorial : MonoBehaviour
 
     public void NextScene()
     {
-        SceneManager.LoadScene(sceneIndex + 2); // 다음 씬으로 넘어가기
+        SceneManager.LoadScene(sceneIndex + 1); // 다음 씬으로 넘어가기
     }
 }

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class ¿Œ∞Ê»£ : MonoBehaviour
+public class Next : MonoBehaviour
 {
     int sceneIndex;
 

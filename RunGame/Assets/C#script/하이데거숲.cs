@@ -15,6 +15,6 @@ public class 하이데거숲 : MonoBehaviour
 
     public void NextScene()
     {
-        SceneManager.LoadScene(sceneIndex + 4); // 다음 씬으로 넘어가기
+        SceneManager.LoadScene(sceneIndex + 1); // 다음 씬으로 넘어가기
     } 
 }
