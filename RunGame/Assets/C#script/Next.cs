@@ -16,5 +16,31 @@ public class Next : MonoBehaviour
     public void NextScene()
     {
         SceneManager.LoadScene(sceneIndex + 1); // 다음 씬으로 넘어가기
-    } 
+    }
+
+    public void NNextScene()
+    {
+        SceneManager.LoadScene(sceneIndex + 2); // 다다음 씬으로 넘어가기
+    }
+
+    public void NNNextScene()
+    {
+        SceneManager.LoadScene(sceneIndex + 3); // 다다다음 씬으로 넘어가기
+    }
+
+    public void NNNNextScene()
+    {
+        SceneManager.LoadScene(sceneIndex + 4); // 다다다다음 씬으로 넘어가기
+    }
+
+    public void NNNNNextScene()
+    {
+        SceneManager.LoadScene(sceneIndex + 5); // 다다다다다음 씬으로 넘어가기
+    }
+    public void NowScene()
+    {
+        SceneManager.LoadScene(sceneIndex);
+    }
+
+
 }
