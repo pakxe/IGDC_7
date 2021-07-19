@@ -14,4 +14,5 @@ public class GameManager : MonoBehaviour
     public Sprite[] InduckSprite;
 
     public Vector3[] PointList;
+    public Vector3[] TrashPoint;
 }
