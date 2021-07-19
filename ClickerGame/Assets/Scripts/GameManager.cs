@@ -8,6 +8,7 @@ public class GameManager : MonoBehaviour
 
     public Sprite[] Background;
 
+    public Sprite[] Preview;
     public int[] InduckID;
     public int[] InduckGold;
     public string[] InduckName;
