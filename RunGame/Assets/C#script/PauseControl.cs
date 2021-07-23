@@ -2,7 +2,6 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-
 public class PauseControl : MonoBehaviour
 {
     [SerializeField] Text startPauseText;
@@ -20,8 +19,8 @@ public class PauseControl : MonoBehaviour
             Time.timeScale = 0;
             pauseActive = true;
         }
-
-        startPauseText.text = pauseActive ? "start" : "Pause";
+        
     }
- 
 }
+
+   
