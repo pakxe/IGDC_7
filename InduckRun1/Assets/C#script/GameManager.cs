@@ -14,6 +14,7 @@ public class GameManager : MonoBehaviour
     public int[] InduckGold;
     public string[] InduckName;
     public Sprite[] InduckSprite;
+    public int[] ClothesGold;
 
     public Vector3[] PointList;
     public Vector3[] TrashPoint;
