@@ -44,7 +44,7 @@ SpriteAtlas:
     variantMultiplier: 1
     packables:
     - {fileID: 102900000, guid: ffb92d7adf7f9fa49b6d0b9211910e0f, type: 3}
-    totalSpriteSurfaceArea: 76818966
+    totalSpriteSurfaceArea: 81013270
     bindAsDefault: 1
     isAtlasV2: 0
     cachedData: {fileID: 0}
@@ -92,6 +92,7 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 5b4286b5810db514fb641592321081f9, type: 3}
   - {fileID: 21300000, guid: 65467ab576cc4ce41b05866c45617dae, type: 3}
   - {fileID: 21300000, guid: 514f34f521d26a84f9622c67d1c60eda, type: 3}
+  - {fileID: 21300000, guid: 5cb75216a2ba7e54799e4b4ed80a92cb, type: 3}
   - {fileID: 21300000, guid: a82aca16d5d4c344c819298e9fb29c61, type: 3}
   - {fileID: 21300000, guid: 9b4b10262b3633647896ced3dbbc81ea, type: 3}
   - {fileID: 21300000, guid: 59b39736f9bd22a479a9148a096591de, type: 3}
@@ -194,6 +195,7 @@ SpriteAtlas:
   - "5\uBC88 \uC778\uACBD\uD638 \uC810\uD504 \uC7A5\uC560\uBB3C3"
   - run4
   - "(\uC218\uC815)\uC815\uC11D_1"
+  - 2
   - "\uD558\uC774\uB370\uAC70 \uC810\uD504 \uC7A5\uC560\uBB3C2"
   - UI Btn Down
   - story3_1
