@@ -44,7 +44,11 @@ SpriteAtlas:
     variantMultiplier: 1
     packables:
     - {fileID: 102900000, guid: ffb92d7adf7f9fa49b6d0b9211910e0f, type: 3}
+<<<<<<< HEAD
     totalSpriteSurfaceArea: 81516250
+=======
+    totalSpriteSurfaceArea: 81013270
+>>>>>>> 83ccce95882a734064a33c31bfe2e5cbd8d88b7b
     bindAsDefault: 1
     isAtlasV2: 0
     cachedData: {fileID: 0}
@@ -67,7 +71,10 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 767e202383de79541ba3ec08af0c9d27, type: 3}
   - {fileID: 21300000, guid: 4c8b8f43526d6e54989617d705ce7663, type: 3}
   - {fileID: 21300000, guid: 29189453606c1d446b7d7db7d98b9cfc, type: 3}
+<<<<<<< HEAD
   - {fileID: 21300000, guid: 0f95ea53348d78443a616262564d8911, type: 3}
+=======
+>>>>>>> 83ccce95882a734064a33c31bfe2e5cbd8d88b7b
   - {fileID: 21300000, guid: b2ce557306374754fa2e29ddbceb0c34, type: 3}
   - {fileID: 21300000, guid: 3b2b167322d491f498a5eb9098dedc9e, type: 3}
   - {fileID: 21300000, guid: c3da4fa31585e134db7c0740fbe22478, type: 3}
@@ -171,7 +178,10 @@ SpriteAtlas:
   - "60\uC8FC\uB144_4(\uC218\uC8152)"
   - story3_2
   - "\uC778\uACBD\uD638 \uC2AC\uB77C\uC774\uB4DC \uC7A5\uC560\uBB3C1"
+<<<<<<< HEAD
   - "\uB9D0\uD48D\uC120"
+=======
+>>>>>>> 83ccce95882a734064a33c31bfe2e5cbd8d88b7b
   - "\uD558\uC774\uB370\uAC70\uC232"
   - story2
   - "\uC815\uC11D \uC810\uD504 \uC7A5\uC560\uBB3C3"
